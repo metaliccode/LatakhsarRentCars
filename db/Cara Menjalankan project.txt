@@ -1,0 +1,5 @@
+[WARNING]
+-disini saya menggunakan database mysql MariaDB dan netbeans IDE 8.2
+-terdapat penambahan library yaitu usulibrary
+-jika project terdapat error, silahkan anda tambahakan library 
+ usu library & JCalendar yang terdapat di folder library project 

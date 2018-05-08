@@ -1,0 +1,22 @@
+Cara Instalasi Aplikasi :
+1. Pastikan komputer/ leptop anda sudah terinstall JDK & JRE, apabila belum, silahkan install terlebih dahulu
+2. Nyalakan xampp anda, jika belum terinstall silahkan install terlebih dahulu.
+3. Buka web browser anda dan ketik http://localhost/phpmyadmin/ untuk masuk ke database anda
+4. Kemudian buatlah database baru dengan nama "  db_rental  ",  nb: nama database harus sama, jika tidak, maka akan terjadi error saat menjalankan aplikasi
+5. lalu import file db_rental.sql kedalam database yang telah dibuat tadi dengan nama db_rental
+6. setelah anda berhasil mengimportnya silahkan jalankan aplikasinya,
+   - jika anda menggunakan aplikasi portabel,maka anda hanya perlu double klick pada file .exe untuk menjalankannya
+   - jika anda menggunakan aplikasi Installer,maka anda hrs menginstallnya terlebih dahulu, setelah selesai instalasi, silahkan cari 
+     di direktori C:\Program Files (x86)\Aplikasi Rental Mobil (default), kemudian jalankan aplikasi Latakhsar Rent Cars.exe 
+
+PASSWORD LOGIN :
+[OWNER] 
+username : ihsan
+password : ihsan
+
+username : owner
+password : owner
+
+[ADMIN]
+username : admin
+username : admin    
