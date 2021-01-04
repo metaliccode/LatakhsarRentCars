@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\User\Documents\NetBeansProjects\LA-TAKHSAR\dist\LA-TAKHSAR.jar</jar>
+  <outfile>C:\Users\User\Documents\NetBeansProjects\LA-TAKHSAR\dist\Latakhsar Rent Cars.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>idle</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\User\Downloads\rent-a-car-icon-13922.png.ico</icon>
+  <singleInstance>
+    <mutexName>Latakhsar Rent Cars</mutexName>
+    <windowTitle>Aplikasi Rental Mobil</windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion>1.8.2</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.1.0</fileVersion>
+    <txtFileVersion>1.0.1.0</txtFileVersion>
+    <fileDescription>Aplikasi Rental Mobil Latakhsar Rent Cars</fileDescription>
+    <copyright>Ihsan Miftahul Huda</copyright>
+    <productVersion>1.0.1.0</productVersion>
+    <txtProductVersion>1.0.1.0</txtProductVersion>
+    <productName>Aplikasi Rental Mobil</productName>
+    <companyName>LATAKHSAR</companyName>
+    <internalName>Latakhsar</internalName>
+    <originalFilename>Latakhsar Rent Cars.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
